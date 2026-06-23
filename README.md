@@ -1,10 +1,10 @@
 # Practice PR Repo
 
-This is a small sample project for practicing how to open a pull reqest on GitHub.
+This is a small sample project for practicing how to open a pull request on GitHub.
 
 ## What it does
 
-The `add` function adds two numbers togethr.
+The `add` function adds two numbers together.
 
 ## Usage
 
